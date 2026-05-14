@@ -10,6 +10,7 @@
 ├── _Klasifikasi__Submission_Akhir_BMLP_Rifqi_Zaghlul.ipynb
 ├── _Clustering__Submission_Akhir_BMLP_Rifqi_Zaghlul.ipynb
 ├── data_clustering.csv
+├── data_clustering_inverse.csv
 └── README.md
 ```
 
